@@ -98,3 +98,9 @@ html , body{
 #player h3:active{
     scale: 0.93;
 }
+header{
+background-color: #000000;
+color: rgb(98, 95, 95);
+margin-top: -18px;
+text-align: center;
+}
